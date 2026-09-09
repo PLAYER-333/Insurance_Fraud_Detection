@@ -1,0 +1,201 @@
+Provider_ID,Claim_ID,Patient_Age,Patient_Gender,Diagnosis_Code,Procedure_Code,Claim_Amount,Approved_Amount,Insurance_Type,Claim_Submission_Date,Days_Between_Service_and_Claim,Number_of_Claims_Per_Provider_Monthly,Provider_Specialty,Patient_State,Claim_Status,Length_of_Stay,Visit_Type,Chronic_Condition_Flag,Prior_Visits_12m
+P0377,C1000000,40,Female,I10,99214,670.13,402.52,Self-Pay,21-03-2025,20,20,Orthopedics,NY,Rejected,7,Inpatient,0,5
+P0250,C1000001,92,Female,J18.9,93000,117.56,101.77,Medicare,22-06-2025,9,69,Pulmonology,NY,Approved,0,Outpatient,0,11
+P0273,C1000002,11,Male,E78.5,87086,199.84,183.72,Medicare,25-02-2025,23,105,Pulmonology,OH,Approved,1,Inpatient,1,9
+P0358,C1000003,63,Female,E78.5,99214,1576.28,989.07,Self-Pay,25-03-2025,21,35,Orthopedics,PA,Pending,7,Emergency,1,8
+P0231,C1000004,70,Male,M54.5,97110,256.15,139.96,Medicare,26-01-2025,7,26,Cardiology,PA,Rejected,0,Outpatient,0,3
+P0310,C1000005,41,Female,K21.9,99213,832.59,660.3,Self-Pay,06-05-2025,7,120,Internal Medicine,NY,Pending,2,Outpatient,0,3
+P0333,C1000006,8,Male,J06.9,93000,518.32,388.49,Medicaid,05-07-2025,11,90,Neurology,CA,Pending,8,Inpatient,0,3
+P0090,C1000007,50,Male,K21.9,80053,236.12,174.65,Medicare,01-09-2025,15,122,Cardiology,PA,Approved,9,Inpatient,1,10
+P0022,C1000008,42,Female,I10,93000,412.16,367.1,Self-Pay,02-03-2025,8,14,Internal Medicine,TX,Approved,4,Inpatient,0,10
+P0120,C1000009,83,Female,K21.9,36415,360.9,264.02,Self-Pay,08-06-2025,20,141,Cardiology,NY,Approved,8,Outpatient,0,3
+P0114,C1000010,65,Male,F41.9,99213,368.75,276.02,Private,13-01-2025,15,121,Neurology,IL,Rejected,8,Outpatient,0,3
+P0349,C1000011,33,Male,I25.10,99214,995.14,740.02,Medicare,06-05-2025,6,126,General Practice,FL,Rejected,9,Outpatient,1,11
+P0365,C1000012,6,Male,E78.5,85025,917.7,667.44,Self-Pay,10-08-2025,21,16,General Practice,IL,Pending,2,Emergency,1,12
+P0002,C1000013,57,Female,I10,97110,343.11,241.16,Medicare,17-01-2025,1,97,General Practice,NY,Rejected,2,Outpatient,0,1
+P0199,C1000014,27,Male,I10,85025,263.57,152.99,Private,06-04-2025,27,81,Pulmonology,PA,Approved,6,Inpatient,0,3
+P0328,C1000015,65,Female,I25.10,87086,682.57,442.07,Private,31-01-2025,23,28,Internal Medicine,IL,Pending,0,Emergency,0,1
+P0052,C1000016,83,Female,I25.10,36415,502.7,317.93,Medicare,13-05-2025,2,137,Neurology,FL,Approved,2,Emergency,1,4
+P0318,C1000017,34,Female,E11.9,93000,1239.7,773.68,Medicaid,01-08-2025,24,123,Pulmonology,FL,Pending,3,Inpatient,1,9
+P0047,C1000018,86,Male,I10,97110,4556.16,4061.42,Private,27-04-2025,9,124,Cardiology,NY,Approved,8,Emergency,0,7
+P0187,C1000019,50,Male,M54.5,87086,1068.85,595.37,Medicare,05-07-2025,19,109,General Practice,NY,Approved,9,Outpatient,1,5
+P0326,C1000020,51,Female,I25.10,80053,529.65,319.23,Private,18-03-2025,7,27,Internal Medicine,TX,Rejected,3,Inpatient,0,2
+P0121,C1000021,73,Male,J06.9,71046,474.55,362.18,Private,28-07-2025,9,112,Pulmonology,PA,Approved,7,Outpatient,0,1
+P0136,C1000022,75,Female,E78.5,87086,274.42,180.09,Self-Pay,01-03-2025,0,69,Orthopedics,NY,Approved,5,Outpatient,0,9
+P0111,C1000023,87,Male,I10,97110,263.66,163.49,Self-Pay,25-05-2025,19,104,Orthopedics,FL,Approved,0,Inpatient,0,6
+P0287,C1000024,95,Male,N39.0,87086,244.02,167.57,Private,31-03-2025,17,89,Internal Medicine,PA,Rejected,3,Inpatient,0,0
+P0101,C1000025,15,Male,J06.9,99214,396.92,298.09,Medicaid,25-05-2025,2,124,Pulmonology,NY,Approved,7,Outpatient,0,3
+P0396,C1000026,40,Male,E11.9,99213,386.95,323.94,Medicaid,09-03-2025,8,78,General Practice,PA,Rejected,7,Inpatient,1,8
+P0178,C1000027,89,Female,K21.9,85025,987.31,973.6,Private,13-05-2025,19,45,Internal Medicine,OH,Approved,9,Inpatient,0,7
+P0191,C1000028,30,Male,K21.9,93000,395.76,366.6,Private,09-03-2025,23,99,Internal Medicine,GA,Approved,6,Outpatient,1,9
+P0201,C1000029,1,Female,I10,85025,465.0,332.47,Self-Pay,03-07-2025,17,101,Cardiology,IL,Approved,9,Inpatient,1,9
+P0233,C1000030,55,Male,E11.9,36415,205.49,149.15,Medicare,26-02-2025,4,44,Cardiology,IL,Pending,4,Emergency,0,1
+P0221,C1000031,72,Male,M54.5,71046,2029.73,1436.76,Medicare,24-03-2025,18,78,Orthopedics,GA,Rejected,7,Outpatient,0,11
+P0203,C1000032,71,Female,F41.9,93000,816.96,506.08,Medicaid,04-01-2025,6,100,Pulmonology,PA,Rejected,6,Emergency,1,7
+P0398,C1000033,78,Female,N39.0,87086,2278.1,2223.16,Medicaid,05-05-2025,13,51,General Practice,GA,Approved,8,Inpatient,0,0
+P0323,C1000034,62,Male,I10,71046,1030.2,550.47,Medicaid,01-01-2025,14,26,Cardiology,OH,Pending,9,Inpatient,0,12
+P0317,C1000035,13,Female,I10,85025,1793.11,1080.3,Private,28-04-2025,6,49,Cardiology,NY,Pending,8,Inpatient,0,7
+P0280,C1000036,81,Male,K21.9,80053,446.4,370.95,Private,03-08-2025,24,125,Cardiology,IL,Approved,9,Emergency,1,3
+P0248,C1000037,40,Male,E78.5,71046,966.55,768.2,Medicaid,15-06-2025,21,24,Orthopedics,OH,Pending,3,Inpatient,0,12
+P0136,C1000038,81,Female,E11.9,85025,4742.9,3032.25,Medicare,11-05-2025,3,59,Cardiology,FL,Rejected,9,Emergency,0,0
+P0395,C1000039,78,Female,K21.9,99213,204.62,198.17,Private,24-02-2025,13,74,Orthopedics,NY,Approved,0,Inpatient,0,5
+P0186,C1000040,93,Female,N39.0,36415,1395.51,983.45,Medicare,06-08-2025,3,119,Orthopedics,FL,Rejected,3,Outpatient,0,0
+P0086,C1000041,2,Female,N39.0,80053,2118.27,1690.65,Medicare,07-01-2025,22,55,General Practice,CA,Approved,7,Emergency,0,10
+P0338,C1000042,83,Male,E78.5,80053,762.73,416.08,Medicare,18-02-2025,11,149,General Practice,PA,Approved,6,Emergency,1,10
+P0064,C1000043,60,Male,E78.5,71046,1004.42,949.62,Private,23-01-2025,10,63,General Practice,PA,Pending,1,Emergency,1,1
+P0342,C1000044,47,Female,I10,99213,1515.81,835.97,Self-Pay,30-03-2025,7,69,Orthopedics,OH,Approved,6,Outpatient,0,3
+P0245,C1000045,76,Female,K21.9,36415,318.55,222.04,Medicare,14-02-2025,2,127,Pulmonology,TX,Approved,3,Outpatient,0,11
+P0045,C1000046,91,Male,N39.0,71046,760.46,716.95,Medicare,08-02-2025,4,68,Orthopedics,NY,Approved,7,Emergency,0,3
+P0017,C1000047,49,Female,M54.5,71046,267.63,260.27,Medicare,03-08-2025,16,102,General Practice,CA,Approved,9,Inpatient,1,7
+P0177,C1000048,9,Male,I10,87086,313.25,298.21,Medicaid,16-05-2025,21,53,Orthopedics,IL,Pending,2,Inpatient,0,7
+P0014,C1000049,69,Female,N39.0,36415,328.57,300.25,Private,29-06-2025,18,102,Orthopedics,FL,Pending,5,Outpatient,1,11
+P0056,C1000050,22,Female,F41.9,97110,484.44,298.73,Self-Pay,12-05-2025,6,89,Internal Medicine,OH,Approved,0,Inpatient,0,9
+P0205,C1000051,22,Male,E78.5,99214,613.89,316.72,Private,07-07-2025,27,147,Cardiology,FL,Approved,5,Outpatient,0,10
+P0388,C1000052,19,Male,I25.10,71046,788.73,572.54,Medicaid,09-07-2025,19,60,General Practice,NY,Rejected,8,Inpatient,1,1
+P0186,C1000053,19,Female,E11.9,80053,170.59,90.68,Medicaid,22-04-2025,26,33,Orthopedics,PA,Rejected,9,Emergency,0,11
+P0323,C1000054,87,Male,J18.9,80053,2755.68,2701.3,Medicaid,30-07-2025,0,21,Neurology,FL,Rejected,7,Inpatient,0,5
+P0366,C1000055,35,Female,N39.0,85025,1403.64,707.57,Self-Pay,26-01-2025,1,76,Cardiology,TX,Approved,2,Emergency,0,0
+P0329,C1000056,11,Female,E78.5,36415,987.18,654.24,Medicare,24-08-2025,1,75,Pulmonology,OH,Approved,3,Inpatient,0,1
+P0251,C1000057,18,Female,E78.5,71046,406.17,244.37,Medicare,27-04-2025,23,14,Neurology,CA,Approved,9,Emergency,1,9
+P0176,C1000058,38,Female,E78.5,80053,506.21,256.57,Self-Pay,08-02-2025,11,2,Internal Medicine,NY,Approved,7,Inpatient,0,11
+P0205,C1000059,33,Female,E78.5,80053,853.15,639.47,Medicare,04-08-2025,7,59,Cardiology,GA,Approved,9,Emergency,0,2
+P0106,C1000060,30,Male,J06.9,99214,762.92,410.47,Medicaid,17-06-2025,17,6,Neurology,OH,Approved,2,Inpatient,0,3
+P0198,C1000061,91,Male,J06.9,71046,137.43,130.55,Medicare,08-05-2025,20,142,Neurology,FL,Approved,3,Outpatient,0,3
+P0151,C1000062,83,Male,N39.0,99214,999.67,843.54,Medicare,09-03-2025,13,118,Cardiology,IL,Approved,8,Outpatient,0,11
+P0099,C1000063,55,Female,I25.10,36415,5946.74,4073.52,Medicaid,07-06-2025,11,13,Pulmonology,IL,Approved,3,Inpatient,0,4
+P0397,C1000064,94,Male,N39.0,99214,119.75,110.26,Private,20-07-2025,11,117,Neurology,IL,Approved,7,Inpatient,0,8
+P0004,C1000065,33,Female,K21.9,97110,1231.2,1106.15,Medicare,04-04-2025,9,113,Cardiology,TX,Pending,1,Emergency,0,7
+P0038,C1000066,14,Male,M54.5,85025,737.16,488.9,Self-Pay,07-02-2025,11,109,General Practice,TX,Pending,0,Emergency,0,5
+P0076,C1000067,26,Female,E78.5,97110,496.94,458.98,Self-Pay,07-02-2025,14,129,General Practice,CA,Rejected,9,Inpatient,0,8
+P0387,C1000068,9,Male,I25.10,36415,1678.43,1619.18,Medicare,18-07-2025,9,106,Orthopedics,PA,Rejected,3,Outpatient,0,2
+P0276,C1000069,91,Male,N39.0,99214,206.26,167.06,Private,06-06-2025,15,76,Orthopedics,FL,Pending,1,Emergency,0,12
+P0352,C1000070,21,Male,K21.9,97110,622.46,420.72,Self-Pay,04-03-2025,19,109,Orthopedics,FL,Rejected,2,Emergency,0,11
+P0080,C1000071,43,Male,F41.9,36415,1810.87,1720.86,Medicaid,02-05-2025,20,119,Neurology,IL,Approved,0,Emergency,1,0
+P0288,C1000072,20,Male,M54.5,99214,463.28,450.05,Medicaid,11-02-2025,0,87,Pulmonology,TX,Pending,7,Outpatient,1,6
+P0147,C1000073,94,Female,K21.9,80053,386.29,260.22,Medicaid,28-03-2025,19,66,General Practice,NY,Approved,8,Outpatient,0,2
+P0195,C1000074,16,Female,E78.5,99213,598.47,325.06,Medicaid,21-07-2025,9,86,Neurology,NY,Approved,0,Emergency,0,5
+P0001,C1000075,49,Male,E11.9,97110,377.89,352.91,Medicare,06-03-2025,20,53,Neurology,OH,Rejected,5,Outpatient,1,4
+P0247,C1000076,91,Male,F41.9,36415,1941.73,1616.29,Self-Pay,29-08-2025,28,61,Internal Medicine,IL,Approved,3,Emergency,0,11
+P0332,C1000077,50,Female,I25.10,80053,258.4,159.17,Self-Pay,23-06-2025,11,76,Internal Medicine,IL,Approved,6,Emergency,1,10
+P0265,C1000078,86,Female,E78.5,71046,1116.04,874.38,Medicare,15-01-2025,3,112,Orthopedics,OH,Pending,7,Inpatient,0,3
+P0061,C1000079,86,Female,E11.9,36415,194.54,127.25,Medicare,21-03-2025,20,30,Pulmonology,FL,Approved,7,Inpatient,1,7
+P0213,C1000080,73,Female,E78.5,87086,943.94,905.8,Self-Pay,19-03-2025,9,65,Pulmonology,TX,Rejected,0,Inpatient,0,5
+P0107,C1000081,71,Male,I10,97110,499.58,335.25,Self-Pay,24-05-2025,10,46,General Practice,GA,Approved,0,Emergency,0,6
+P0385,C1000082,55,Male,I10,93000,65.1,38.94,Medicare,07-09-2025,18,24,Orthopedics,NY,Approved,9,Outpatient,1,11
+P0352,C1000083,56,Male,I10,99213,541.9,282.66,Private,06-03-2025,18,46,Orthopedics,TX,Approved,0,Inpatient,0,9
+P0074,C1000084,79,Female,I25.10,36415,226.46,152.01,Private,14-02-2025,0,45,Pulmonology,PA,Approved,5,Outpatient,1,0
+P0203,C1000085,41,Male,K21.9,99213,377.88,375.89,Private,08-07-2025,13,148,Neurology,PA,Rejected,4,Inpatient,0,8
+P0375,C1000086,90,Female,F41.9,93000,1929.93,1175.66,Self-Pay,05-06-2025,11,58,General Practice,PA,Approved,3,Outpatient,0,10
+P0338,C1000087,84,Female,I25.10,87086,217.27,158.4,Self-Pay,04-04-2025,16,50,Orthopedics,CA,Approved,0,Emergency,0,3
+P0283,C1000088,36,Female,K21.9,80053,227.7,224.52,Medicare,24-06-2025,18,59,General Practice,IL,Approved,1,Inpatient,0,9
+P0255,C1000089,40,Male,E11.9,99213,1780.6,896.28,Self-Pay,30-04-2025,0,35,Internal Medicine,PA,Pending,5,Inpatient,0,1
+P0016,C1000090,68,Female,N39.0,71046,599.06,387.91,Medicaid,10-08-2025,1,137,Internal Medicine,GA,Pending,1,Outpatient,0,1
+P0296,C1000091,88,Male,N39.0,80053,1934.85,1761.86,Medicare,20-08-2025,14,141,Orthopedics,GA,Approved,7,Inpatient,0,6
+P0189,C1000092,10,Female,F41.9,87086,710.58,389.3,Medicaid,20-03-2025,25,59,General Practice,TX,Approved,8,Outpatient,0,5
+P0036,C1000093,7,Male,M54.5,71046,263.58,254.13,Medicare,29-06-2025,6,21,Orthopedics,PA,Rejected,6,Inpatient,1,11
+P0097,C1000094,24,Male,F41.9,99214,515.67,473.01,Self-Pay,06-05-2025,3,3,Cardiology,GA,Approved,8,Outpatient,1,10
+P0216,C1000095,41,Female,N39.0,71046,1497.13,855.65,Medicare,04-07-2025,11,144,Internal Medicine,CA,Approved,6,Emergency,1,7
+P0290,C1000096,16,Female,J18.9,36415,1180.87,940.18,Medicaid,03-04-2025,8,124,Cardiology,IL,Approved,6,Emergency,1,7
+P0203,C1000097,50,Female,F41.9,80053,544.97,423.85,Medicare,26-03-2025,2,128,Cardiology,PA,Approved,0,Outpatient,0,0
+P0245,C1000098,52,Female,E11.9,85025,566.86,480.04,Medicaid,05-01-2025,27,88,General Practice,NY,Rejected,5,Emergency,1,2
+P0348,C1000099,91,Male,I10,87086,496.43,324.38,Medicaid,30-07-2025,19,97,Pulmonology,FL,Pending,2,Emergency,0,5
+P0274,C1000100,71,Male,K21.9,99213,338.41,234.21,Medicare,10-05-2025,23,115,Neurology,IL,Approved,1,Inpatient,1,5
+P0144,C1000101,24,Male,F41.9,80053,2666.98,1654.6,Medicare,07-04-2025,26,64,Orthopedics,IL,Approved,8,Outpatient,1,4
+P0257,C1000102,75,Female,J06.9,87086,547.8,353.85,Medicaid,15-05-2025,19,124,General Practice,NY,Pending,8,Emergency,0,6
+P0239,C1000103,77,Female,E78.5,97110,214.79,126.27,Private,05-09-2025,10,30,General Practice,OH,Pending,1,Emergency,0,7
+P0043,C1000104,65,Male,I25.10,36415,367.85,350.27,Medicare,27-07-2025,0,67,Pulmonology,FL,Approved,9,Outpatient,0,5
+P0023,C1000105,65,Male,E11.9,87086,989.75,934.04,Medicaid,12-08-2025,3,16,Orthopedics,NY,Approved,5,Emergency,0,7
+P0264,C1000106,30,Female,N39.0,85025,923.02,627.66,Self-Pay,04-04-2025,9,116,Internal Medicine,IL,Approved,6,Outpatient,0,1
+P0155,C1000107,69,Male,J06.9,71046,486.48,411.86,Medicaid,14-06-2025,18,16,General Practice,FL,Pending,0,Emergency,0,12
+P0239,C1000108,13,Male,M54.5,97110,314.25,234.16,Medicare,11-05-2025,19,75,Pulmonology,IL,Pending,8,Emergency,0,6
+P0129,C1000109,60,Male,E78.5,97110,555.39,355.67,Medicaid,27-07-2025,3,53,Internal Medicine,FL,Pending,9,Outpatient,1,4
+P0090,C1000110,88,Female,E78.5,85025,137.48,92.77,Self-Pay,02-07-2025,7,149,Cardiology,FL,Approved,7,Inpatient,1,5
+P0060,C1000111,93,Male,E78.5,85025,186.65,183.4,Medicare,17-05-2025,26,61,Pulmonology,GA,Rejected,1,Emergency,0,5
+P0152,C1000112,29,Female,J06.9,36415,1050.6,704.67,Self-Pay,01-05-2025,8,22,Internal Medicine,TX,Approved,5,Inpatient,0,3
+P0326,C1000113,32,Male,M54.5,97110,367.16,289.81,Self-Pay,03-07-2025,3,138,Internal Medicine,CA,Rejected,4,Inpatient,0,7
+P0160,C1000114,59,Male,J18.9,93000,741.29,720.94,Medicaid,06-05-2025,7,83,Internal Medicine,PA,Approved,3,Emergency,0,11
+P0151,C1000115,38,Female,I25.10,85025,1483.37,962.41,Medicaid,01-02-2025,10,80,General Practice,FL,Approved,5,Outpatient,0,11
+P0230,C1000116,70,Female,N39.0,99213,929.21,840.44,Medicaid,14-01-2025,14,95,Neurology,TX,Rejected,7,Inpatient,0,2
+P0391,C1000117,20,Female,E78.5,71046,553.88,308.53,Medicaid,05-09-2025,14,148,General Practice,FL,Pending,7,Outpatient,0,9
+P0156,C1000118,17,Female,E78.5,99214,3135.0,2717.0,Medicare,06-03-2025,3,4,Neurology,NY,Pending,2,Outpatient,0,9
+P0235,C1000119,5,Male,J18.9,85025,943.13,851.97,Medicaid,20-07-2025,3,108,Cardiology,IL,Approved,9,Emergency,0,6
+P0175,C1000120,45,Male,M54.5,85025,406.84,373.77,Self-Pay,29-01-2025,6,68,Pulmonology,FL,Pending,4,Outpatient,0,8
+P0242,C1000121,21,Male,F41.9,80053,994.42,982.02,Medicare,05-02-2025,9,22,General Practice,GA,Approved,7,Inpatient,0,10
+P0178,C1000122,29,Male,F41.9,36415,761.64,651.56,Self-Pay,08-01-2025,28,136,Neurology,IL,Approved,8,Outpatient,0,1
+P0255,C1000123,87,Female,J06.9,71046,269.35,266.28,Medicaid,02-03-2025,8,83,General Practice,NY,Approved,3,Inpatient,0,6
+P0218,C1000124,78,Female,K21.9,87086,578.25,369.6,Medicaid,02-09-2025,10,137,General Practice,OH,Approved,8,Emergency,1,0
+P0270,C1000125,80,Male,F41.9,80053,475.47,361.73,Medicare,24-05-2025,21,24,General Practice,GA,Approved,0,Outpatient,0,12
+P0382,C1000126,57,Female,M54.5,36415,108.07,65.6,Medicaid,03-01-2025,10,101,Orthopedics,IL,Pending,2,Emergency,1,6
+P0060,C1000127,11,Male,J06.9,85025,472.58,256.03,Medicaid,10-07-2025,29,6,Cardiology,CA,Approved,7,Inpatient,0,3
+P0224,C1000128,71,Female,K21.9,99213,431.45,310.41,Medicaid,22-08-2025,14,147,Orthopedics,GA,Approved,7,Inpatient,1,0
+P0176,C1000129,58,Male,J18.9,87086,379.74,326.52,Medicare,07-02-2025,10,141,Internal Medicine,GA,Rejected,9,Emergency,0,1
+P0143,C1000130,87,Female,I25.10,87086,140.77,125.18,Self-Pay,18-05-2025,23,132,Internal Medicine,PA,Approved,4,Outpatient,0,3
+P0095,C1000131,46,Male,J06.9,85025,406.78,206.85,Self-Pay,29-08-2025,23,51,General Practice,PA,Approved,0,Emergency,1,10
+P0020,C1000132,17,Female,N39.0,85025,527.08,511.85,Private,24-03-2025,19,104,Internal Medicine,PA,Approved,4,Inpatient,0,12
+P0160,C1000133,57,Female,I10,87086,592.2,369.31,Medicaid,28-03-2025,4,29,Orthopedics,GA,Approved,7,Emergency,0,3
+P0330,C1000134,44,Female,N39.0,36415,214.03,138.28,Medicare,04-06-2025,8,126,Pulmonology,FL,Approved,1,Outpatient,0,4
+P0038,C1000135,63,Male,K21.9,87086,916.15,839.38,Private,06-09-2025,17,16,Pulmonology,IL,Pending,1,Inpatient,1,11
+P0162,C1000136,36,Female,E78.5,99214,200.39,189.79,Medicaid,20-08-2025,11,110,Neurology,IL,Approved,4,Emergency,0,1
+P0387,C1000137,30,Male,M54.5,80053,453.03,393.33,Medicare,08-07-2025,12,98,General Practice,PA,Rejected,4,Emergency,0,7
+P0380,C1000138,12,Female,I10,71046,1592.92,1061.54,Self-Pay,12-03-2025,8,44,Cardiology,PA,Rejected,4,Outpatient,1,7
+P0086,C1000139,92,Female,E78.5,71046,308.15,225.39,Medicare,02-05-2025,8,69,Neurology,IL,Approved,5,Emergency,0,6
+P0003,C1000140,72,Male,F41.9,99214,357.81,328.22,Medicare,12-02-2025,14,71,Neurology,FL,Approved,6,Outpatient,0,10
+P0268,C1000141,45,Female,E78.5,36415,1316.43,893.4,Self-Pay,01-04-2025,24,2,Neurology,TX,Approved,6,Emergency,0,1
+P0005,C1000142,23,Female,I10,71046,397.12,358.46,Private,28-08-2025,10,8,Neurology,NY,Approved,4,Inpatient,0,3
+P0120,C1000143,60,Male,E78.5,85025,426.58,380.08,Medicaid,25-01-2025,22,107,Cardiology,TX,Approved,9,Emergency,0,10
+P0198,C1000144,40,Male,J06.9,87086,653.2,479.67,Private,01-02-2025,29,103,Internal Medicine,IL,Rejected,4,Inpatient,0,3
+P0349,C1000145,61,Male,N39.0,87086,1290.44,1223.7,Self-Pay,22-01-2025,4,39,Cardiology,GA,Approved,6,Emergency,0,0
+P0037,C1000146,9,Male,N39.0,93000,88.97,61.59,Medicaid,19-02-2025,27,67,Pulmonology,CA,Pending,6,Emergency,0,5
+P0264,C1000147,18,Female,N39.0,97110,275.63,241.16,Self-Pay,07-06-2025,8,117,Pulmonology,OH,Pending,3,Outpatient,1,12
+P0213,C1000148,70,Female,F41.9,80053,237.95,195.09,Private,04-04-2025,2,102,Orthopedics,IL,Approved,6,Outpatient,1,10
+P0052,C1000149,6,Male,F41.9,97110,223.29,148.63,Private,13-07-2025,24,73,Internal Medicine,GA,Approved,7,Inpatient,0,11
+P0338,C1000150,65,Male,J18.9,87086,269.82,206.65,Medicare,30-05-2025,0,129,Orthopedics,IL,Pending,4,Outpatient,0,3
+P0338,C1000151,40,Female,N39.0,97110,273.35,219.51,Medicaid,15-08-2025,29,80,Orthopedics,FL,Pending,4,Emergency,0,3
+P0193,C1000152,1,Male,M54.5,71046,697.41,535.9,Medicaid,22-03-2025,6,1,Internal Medicine,TX,Approved,5,Inpatient,0,2
+P0377,C1000153,73,Male,F41.9,71046,262.51,145.79,Private,02-04-2025,18,69,Cardiology,IL,Rejected,4,Outpatient,0,1
+P0242,C1000154,67,Female,K21.9,93000,602.13,599.56,Self-Pay,09-01-2025,7,37,Pulmonology,GA,Approved,7,Outpatient,1,3
+P0361,C1000155,78,Female,J06.9,97110,756.83,744.19,Private,23-08-2025,26,101,Neurology,NY,Approved,3,Emergency,0,11
+P0384,C1000156,86,Male,I25.10,85025,299.33,155.27,Medicare,28-07-2025,21,16,Internal Medicine,PA,Approved,0,Inpatient,0,8
+P0227,C1000157,70,Female,I25.10,85025,606.13,589.24,Self-Pay,16-03-2025,29,148,Pulmonology,TX,Pending,4,Emergency,0,6
+P0112,C1000158,80,Female,J06.9,99213,2083.94,1595.77,Self-Pay,28-02-2025,23,91,Pulmonology,OH,Approved,9,Inpatient,0,6
+P0058,C1000159,11,Female,N39.0,99213,709.13,399.14,Medicaid,23-08-2025,22,119,Pulmonology,FL,Approved,2,Outpatient,1,1
+P0225,C1000160,88,Female,K21.9,85025,322.99,294.01,Medicaid,09-05-2025,28,69,Cardiology,IL,Pending,3,Inpatient,1,6
+P0076,C1000161,87,Female,E11.9,93000,516.35,369.96,Self-Pay,18-08-2025,19,11,Cardiology,OH,Approved,2,Outpatient,0,6
+P0300,C1000162,66,Male,K21.9,97110,257.15,220.27,Medicaid,20-03-2025,6,65,Internal Medicine,PA,Pending,9,Emergency,1,9
+P0371,C1000163,77,Male,I10,93000,679.74,621.02,Self-Pay,08-02-2025,6,74,Neurology,IL,Pending,1,Inpatient,1,3
+P0098,C1000164,71,Female,I10,93000,1103.19,848.37,Medicaid,27-05-2025,19,63,General Practice,PA,Pending,4,Outpatient,0,11
+P0220,C1000165,84,Male,J06.9,85025,278.56,146.2,Medicaid,04-08-2025,11,35,Internal Medicine,FL,Approved,4,Emergency,0,5
+P0019,C1000166,85,Male,N39.0,97110,458.91,418.18,Medicare,27-01-2025,22,31,Neurology,GA,Pending,5,Outpatient,1,0
+P0072,C1000167,50,Female,E11.9,99214,1352.67,1145.74,Medicare,25-06-2025,18,16,Orthopedics,TX,Approved,2,Emergency,0,8
+P0150,C1000168,78,Female,J06.9,80053,362.57,346.28,Medicare,09-01-2025,1,75,Orthopedics,FL,Approved,7,Inpatient,0,7
+P0353,C1000169,87,Female,F41.9,85025,635.04,403.29,Medicaid,25-06-2025,27,30,Cardiology,OH,Approved,8,Emergency,1,11
+P0387,C1000170,29,Female,N39.0,93000,235.83,210.5,Self-Pay,08-08-2025,29,94,Internal Medicine,FL,Approved,4,Outpatient,0,7
+P0256,C1000171,5,Male,I25.10,80053,278.82,261.13,Self-Pay,30-07-2025,9,37,General Practice,FL,Approved,8,Emergency,1,10
+P0233,C1000172,17,Male,M54.5,99214,358.25,242.72,Private,02-06-2025,8,65,General Practice,FL,Pending,1,Outpatient,0,3
+P0227,C1000173,3,Male,M54.5,85025,3105.89,2189.94,Self-Pay,15-05-2025,11,143,Orthopedics,TX,Pending,3,Emergency,0,2
+P0024,C1000174,42,Female,E78.5,93000,392.59,261.86,Self-Pay,02-02-2025,24,79,Internal Medicine,TX,Approved,8,Emergency,0,8
+P0150,C1000175,2,Female,K21.9,97110,356.39,179.22,Self-Pay,07-05-2025,0,111,Internal Medicine,CA,Approved,6,Emergency,1,6
+P0393,C1000176,25,Male,K21.9,71046,347.04,213.7,Medicare,21-08-2025,5,102,Pulmonology,OH,Approved,1,Outpatient,0,10
+P0164,C1000177,25,Female,M54.5,99214,477.0,317.57,Private,02-04-2025,20,128,Internal Medicine,CA,Approved,9,Inpatient,0,6
+P0085,C1000178,68,Female,N39.0,93000,920.34,510.05,Self-Pay,11-03-2025,12,9,Orthopedics,PA,Approved,8,Emergency,0,10
+P0095,C1000179,24,Female,K21.9,99214,633.71,559.43,Private,05-08-2025,13,105,Pulmonology,GA,Rejected,3,Emergency,1,12
+P0285,C1000180,91,Female,M54.5,87086,2824.97,2015.55,Self-Pay,14-05-2025,28,36,Pulmonology,CA,Approved,1,Emergency,1,12
+P0015,C1000181,18,Male,K21.9,85025,646.15,506.65,Private,14-08-2025,23,48,General Practice,TX,Rejected,5,Emergency,0,1
+P0387,C1000182,93,Female,F41.9,85025,1733.54,1113.46,Medicare,11-01-2025,3,135,Internal Medicine,TX,Rejected,5,Outpatient,1,12
+P0350,C1000183,54,Male,M54.5,93000,679.51,462.19,Private,10-02-2025,7,59,Cardiology,CA,Approved,4,Outpatient,0,6
+P0227,C1000184,24,Male,K21.9,93000,884.01,775.0,Medicaid,19-06-2025,7,77,Orthopedics,IL,Pending,7,Inpatient,0,4
+P0187,C1000185,4,Female,J18.9,87086,171.59,126.1,Self-Pay,13-07-2025,19,66,Internal Medicine,TX,Rejected,6,Inpatient,0,11
+P0304,C1000186,30,Male,N39.0,93000,491.94,392.7,Self-Pay,01-09-2025,12,16,Cardiology,GA,Pending,7,Inpatient,0,2
+P0219,C1000187,57,Female,K21.9,80053,515.35,366.59,Private,10-03-2025,20,44,Cardiology,NY,Approved,9,Emergency,0,5
+P0190,C1000188,11,Male,I10,99214,448.38,349.07,Self-Pay,06-03-2025,6,23,General Practice,PA,Pending,7,Emergency,0,10
+P0128,C1000189,16,Female,I10,71046,97.29,92.3,Medicare,15-02-2025,13,63,Cardiology,CA,Rejected,1,Emergency,0,3
+P0178,C1000190,11,Male,I10,99213,1101.58,698.07,Medicare,05-07-2025,10,1,Cardiology,IL,Approved,0,Inpatient,0,12
+P0300,C1000191,65,Female,E78.5,36415,399.53,303.46,Private,19-02-2025,5,115,Neurology,NY,Approved,9,Outpatient,0,7
+P0022,C1000192,9,Female,E11.9,93000,383.58,323.59,Medicare,14-08-2025,6,80,General Practice,TX,Approved,8,Inpatient,1,6
+P0010,C1000193,3,Female,K21.9,87086,444.02,241.28,Medicaid,24-05-2025,12,12,Pulmonology,IL,Rejected,6,Outpatient,1,4
+P0288,C1000194,44,Female,K21.9,93000,453.75,445.13,Medicare,18-06-2025,20,148,Neurology,PA,Pending,2,Emergency,0,1
+P0148,C1000195,30,Female,E78.5,93000,754.22,565.2,Private,11-03-2025,22,42,Neurology,NY,Approved,7,Inpatient,0,12
+P0321,C1000196,55,Male,I10,80053,196.99,122.66,Medicare,02-07-2025,23,52,Neurology,IL,Pending,1,Outpatient,0,0
+P0012,C1000197,90,Female,N39.0,80053,258.57,227.6,Private,02-03-2025,5,72,Neurology,OH,Pending,6,Inpatient,0,1
+P0362,C1000198,82,Female,M54.5,36415,687.12,623.76,Private,13-02-2025,17,80,Orthopedics,PA,Approved,3,Emergency,1,0
+P0049,C1000199,52,Male,J06.9,99213,611.84,498.84,Medicare,25-01-2025,2,101,General Practice,OH,Approved,8,Emergency,0,2
