@@ -1,5 +1,6 @@
 # Healthcare Insurance Fraud Detection
 
+<<<<<<< HEAD
 A complete, working fraud-detection pipeline built from your project notes. Primary model is a `RandomForestClassifier`, benchmarked against Logistic Regression and a Decision Tree, trained on `insurance_fraud.csv`.
 
 ## Database Schema (`insurance_fraud.csv`)
@@ -28,6 +29,12 @@ The dataset contains 10,000 real claim records with an ~8.3% fraud rate. The tab
 | `Visit_Type` | Type of medical visit (Outpatient, Inpatient, Emergency). |
 | `Chronic_Condition_Flag` | Indicates if the patient has a chronic condition (1) or not (0). |
 | `Prior_Visits_12m` | Number of prior visits by the patient in the last 12 months. |
+=======
+A complete, working fraud-detection pipeline.
+Primary model is a `RandomForestClassifier`, benchmarked against Logistic
+Regression and a Decision Tree, trained on `insurance_fraud.csv`
+(10,000 real claim records, ~8.3% fraud rate).
+>>>>>>> 21f7a1a6d79d74183eb2a4ae466ec5ff03e7ed8a
 
 ## Quick start
 
