@@ -1,6 +1,6 @@
 # Healthcare Insurance Fraud Detection
 
-<<<<<<< HEAD
+
 A complete, working fraud-detection pipeline built from your project notes. Primary model is a `RandomForestClassifier`, benchmarked against Logistic Regression and a Decision Tree, trained on `insurance_fraud.csv`.
 
 ## Database Schema (`insurance_fraud.csv`)
